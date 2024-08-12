@@ -12,7 +12,7 @@ title                    : "Yasin Boloorchi"
 title_separator          : "-"
 name                     : &name "Yasin Boloorchi"
 description              : &description "Computer Science Ph.D. Student"
-url                      : https://yasinboloorchi.github.io/forkofacademicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yasinboloorchi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YasinBoloorchi/newwebsite"
 
@@ -113,7 +113,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : e80sjdxhP1D_8Z8qsGFOxMfbPPPDDL2N2ogtxEpVIyI
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
