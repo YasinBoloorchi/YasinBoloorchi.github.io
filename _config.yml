@@ -113,7 +113,8 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : e80sjdxhP1D_8Z8qsGFOxMfbPPPDDL2N2ogtxEpVIyI
+# <meta name="google-site-verification" content="_92yO2APRD1LKF5x-kdlHe4pDTptJUVY7jWJkggSnDY" />
+google_site_verification : _92yO2APRD1LKF5x-kdlHe4pDTptJUVY7jWJkggSnDY
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
