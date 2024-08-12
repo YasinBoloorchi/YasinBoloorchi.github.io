@@ -12,7 +12,7 @@ title                    : "Yasin Boloorchi"
 title_separator          : "-"
 name                     : &name "Yasin Boloorchi"
 description              : &description "Computer Science Ph.D. Student"
-url                      : https://yasinboloorchi.github.io/newwebsite/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yasinboloorchi.github.io/forkofacademicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YasinBoloorchi/newwebsite"
 
