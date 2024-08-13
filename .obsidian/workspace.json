@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "0c784d1e9f2a00cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c15a0d22b93ef5e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "063f01245257ac11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-08-11-blog-post-hyprland.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cccbaf866077313",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e6062346dd65ea0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caff6f63e10cc3f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba722f98baeccf54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fc53b1294e3914f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04d5464f069cf479",
+    "type": "split",
+    "children": [
+      {
+        "id": "21e9f57d8584474e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee20e8074f936f46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-08-11-blog-post-hyprland.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93520b2d0ccf02db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-08-11-blog-post-hyprland.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86673d822da323a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37404af3719bb4cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-08-11-blog-post-hyprland.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "063f01245257ac11",
+  "lastOpenFiles": [
+    "_posts/2024-08-11-blog-post-hyprland.md",
+    "README.md",
+    "_teaching/2024-Theory-of-Computation.md",
+    "_teaching/2023-introduction-computer-science.md",
+    "_teaching/2021-computer-networks.md",
+    "_teaching/2019-computer-architecture.md"
+  ]
+}
