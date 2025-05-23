@@ -171,13 +171,21 @@
   },
   "active": "063f01245257ac11",
   "lastOpenFiles": [
+    "_publications/2021-6-10 An IoT-Fog-Cloud Framework for Demand Side Management in Smart Grid.md",
+    "_pages/sitemap.md",
+    "_pages/publications.md",
+    "_pages/non-menu-page.md",
+    "_drafts/post-draft.md",
+    "CONTRIBUTING.md",
+    "README.md",
     "_teaching/2023-introduction-computer-science.md",
     "_teaching/2024-Theory-of-Computation.md",
-    "_pages/about.md",
-    "_posts/2024-08-11-blog-post-hyprland.md",
-    "test.md",
-    "README.md",
     "_teaching/2021-computer-networks.md",
-    "_teaching/2019-computer-architecture.md"
+    "_teaching/2019-computer-architecture.md",
+    "_posts/2024-08-11-blog-post-hyprland.md",
+    "_pages/terms.md",
+    "_pages/archive-layout-with-content.md",
+    "_pages/about.md",
+    "test.md"
   ]
 }
