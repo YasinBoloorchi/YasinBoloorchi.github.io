@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_teaching/2024-Theory-of-Computation.md",
+                "file": "_teaching/2026-Operating-Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-Theory-of-Computation"
+              "title": "2026-Operating-Systems"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_teaching/2024-Theory-of-Computation.md",
+                "file": "_teaching/2026-Operating-Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-Theory-of-Computation"
+              "title": "Outgoing links from 2026-Operating-Systems"
             }
           },
           {
@@ -142,24 +142,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_teaching/2024-Theory-of-Computation.md",
+                "file": "_teaching/2026-Operating-Systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-Theory-of-Computation"
+              "title": "Outline of 2026-Operating-Systems"
+            }
+          },
+          {
+            "id": "7b4e832a5c00c514",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,8 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "063f01245257ac11",
+  "active": "7b4e832a5c00c514",
   "lastOpenFiles": [
+    "_teaching/2025-Intro-to-Networks-and-Their-Applications.md",
+    "_teaching/2026-Operating-Systems.md",
+    "_teaching/2024-Theory-of-Computation.md",
+    "_teaching/2021-computer-networks.md",
+    "_teaching/2019-computer-architecture.md",
+    "files/CV.pdf",
     "_publications/2021-6-10 An IoT-Fog-Cloud Framework for Demand Side Management in Smart Grid.md",
     "_pages/sitemap.md",
     "_pages/publications.md",
@@ -179,9 +196,6 @@
     "CONTRIBUTING.md",
     "README.md",
     "_teaching/2023-introduction-computer-science.md",
-    "_teaching/2024-Theory-of-Computation.md",
-    "_teaching/2021-computer-networks.md",
-    "_teaching/2019-computer-architecture.md",
     "_posts/2024-08-11-blog-post-hyprland.md",
     "_pages/terms.md",
     "_pages/archive-layout-with-content.md",
